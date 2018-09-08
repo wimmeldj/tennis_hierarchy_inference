@@ -42,7 +42,7 @@ Kelly Criterion.
 
 A write up of the program and the tests that were run can be found here:
 
-[davidwimmel.com](http://davidwimmel.com/other-works.html)
+[davidwimmel.com](http://davidwimmel.com/other-works/other-works.html)
 
 Alternatively, you can look at the ATP_Mens_Tennis_Prediction.html file in the
 root of our project.
