@@ -1,0 +1,9 @@
+FINAL BAL: 102998.54250992315
+avg win div: 0.5163599512954157
+avg los div: 0.5749648368888068
+avg win gc: 1.5
+avg los gc: 0.045454545454545456
+med win gc: 0.5
+med los gc: 0.0
+winners correct: 1813 / 2665 = 0.6803001876172607
+Principal: 1000000

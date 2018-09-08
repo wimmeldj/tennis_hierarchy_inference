@@ -1,0 +1,10 @@
+FINAL BAL: 962.7830983584
+avg win gc: 0.0
+avg los gc: 0.03125
+med win gc: 0.0
+med los gc: 0.0
+avg win div: 0.5979568482115792
+avg los div: 0.6282859729183109
+winners correct: 311 / 568 = 0.5475352112676056
+Principal: 1000000
+Halting! Bankroll is less than a thousandth of its original value.

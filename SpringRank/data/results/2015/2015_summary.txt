@@ -1,0 +1,9 @@
+FINAL BAL: 195569.52332945622
+avg win div: 0.5117645235790006
+avg los div: 0.5814903922806098
+avg win gc: 0.3333333333333333
+avg los gc: 0.07692307692307693
+med win gc: 0
+med los gc: 0
+winners correct: 1792 / 2629 = 0.6816279954355268
+Principal: 1000000

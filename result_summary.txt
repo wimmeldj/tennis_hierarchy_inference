@@ -1,0 +1,192 @@
+2010
+========
+FINAL BAL: 381466.05138783174
+avg win div: 0.4978711949122868
+avg los div: 0.522063831487187
+avg win gc: 0.0
+avg los gc: 0.1
+med win gc: 0.0
+med los gc: 0.0
+winners correct: 1141 / 1731 = 0.6591565569035239
+Principal: 1000000
+
+2010 - include surface
+========
+FINAL BAL: 962.7830983584
+avg win gc: 0.0
+avg los gc: 0.03125
+med win gc: 0.0
+med los gc: 0.0
+avg win div: 0.5979568482115792
+avg los div: 0.6282859729183109
+winners correct: 311 / 568 = 0.5475352112676056
+Principal: 1000000
+Halting! Bankroll is less than a thousandth of its original value.
+
+2011
+========
+FINAL BAL: 102998.54250992315
+avg win div: 0.5163599512954157
+avg los div: 0.5749648368888068
+avg win gc: 1.5
+avg los gc: 0.045454545454545456
+med win gc: 0.5
+med los gc: 0.0
+winners correct: 1813 / 2665 = 0.6803001876172607
+Principal: 1000000
+
+2011 - include surface
+========
+FINAL BAL: 12951.554435050883
+avg win div: 0.5150917354520362
+avg los div: 0.5619744733670109
+avg win gc: 0.13333333333333333
+avg los gc: 0.06666666666666667
+med win gc: 0
+med los gc: 0
+winners correct: 1800 / 2665 = 0.6754221388367729
+Principal: 1000000
+
+2012
+========
+FINAL BAL: 2196383.440423699
+avg win div: 0.5203638984117984
+avg los div: 0.554138392127294
+avg win gc: 0.4166666666666667
+avg los gc: 0.47368421052631576
+med win gc: 0.0
+med los gc: 0
+winners correct: 1765 / 2606 = 0.6772831926323868
+Principal: 1000000
+
+2012 - include surface
+========
+FINAL BAL: 508600.28074121143
+avg win div: 0.540539940487454
+avg los div: 0.5561285153562741
+avg win gc: 0.0
+avg los gc: 0.05
+med win gc: 0
+med los gc: 0.0
+winners correct: 1766 / 2606 = 0.6776669224865695
+Principal: 1000000
+
+2013
+========
+FINAL BAL: 23739.28585140483
+avg win div: 0.5014562841881447
+avg los div: 0.5699595622609247
+avg win gc: 0.25
+avg los gc: 0.4166666666666667
+med win gc: 0.0
+med los gc: 0.0
+winners correct: 1758 / 2630 = 0.6684410646387833
+Principal: 1000000
+
+2013 - include surface
+========
+FINAL BAL: 17700.505178514708
+avg win div: 0.5411068138270899
+avg los div: 0.5648645270266676
+avg win gc: 0.1
+avg los gc: 0.05714285714285714
+med win gc: 0.0
+med los gc: 0
+winners correct: 1751 / 2630 = 0.6657794676806084
+Principal: 1000000
+
+2014
+========
+FINAL BAL: 37404.468334225174
+avg win div: 0.5526845890600557
+avg los div: 0.5844959858421582
+avg win gc: 0.0
+avg los gc: 0.03571428571428571
+med win gc: 0.0
+med los gc: 0.0
+winners correct: 1745 / 2600 = 0.6711538461538461
+Principal: 1000000
+
+2014 - include surface
+========
+FINAL BAL: 96951.52693868308
+avg win div: 0.5499484656422067
+avg los div: 0.6532716430469103
+avg win gc: 0.0
+avg los gc: 0.0
+med win gc: 0
+med los gc: 0
+winners correct: 1727 / 2600 = 0.6642307692307692
+Principal: 1000000
+
+2015
+========
+FINAL BAL: 195569.52332945622
+avg win div: 0.5117645235790006
+avg los div: 0.5814903922806098
+avg win gc: 0.3333333333333333
+avg los gc: 0.07692307692307693
+med win gc: 0
+med los gc: 0
+winners correct: 1792 / 2629 = 0.6816279954355268
+Principal: 1000000
+
+2015 - include surface
+========
+FINAL BAL: 3871.9856556027853
+avg win div: 0.4668473511502995
+avg los div: 0.5657349616438889
+avg win gc: 0.0
+avg los gc: 0.10714285714285714
+med win gc: 0
+med los gc: 0.0
+winners correct: 1748 / 2629 = 0.6648915937618867
+Principal: 1000000
+
+2016
+========
+FINAL BAL: 635210.4079846279
+avg win div: 0.47906687642467755
+avg los div: 0.5802656447077826
+avg win gc: 0.0
+avg los gc: 0.3
+med win gc: 0
+med los gc: 0.0
+winners correct: 1755 / 2625 = 0.6685714285714286
+Principal: 1000000
+
+2016 - include surface
+========
+FINAL BAL: 15660.726805788467
+avg win div: 0.5184892020955586
+avg los div: 0.5731288739718566
+avg win gc: 0.0
+avg los gc: 0.037037037037037035
+med win gc: 0
+med los gc: 0
+winners correct: 1741 / 2625 = 0.6632380952380953
+Principal: 1000000
+
+2016
+========
+FINAL BAL: 1140842.8028890048
+avg win div: 0.5288954434653624
+avg los div: 0.5836638145543532
+avg win gc: 0.0
+avg los gc: 0.0
+med win gc: 0
+med los gc: 0.0
+winners correct: 1699 / 2631 = 0.6457620676548841
+Principal: 1000000
+
+2016 - include surface
+========
+FINAL BAL: 1770069.3319285458
+avg win div: 0.5400489984097339
+avg los div: 0.5985174222205735
+avg win gc: 0.0
+avg los gc: 0.045454545454545456
+med win gc: 0
+med los gc: 0.0
+winners correct: 1724 / 2631 = 0.6552641581147852
+Principal: 1000000
