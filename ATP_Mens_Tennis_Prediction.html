@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<title>ATP_Mens_Tennis_Prediciton</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>ATP_Mens_Tennis_Prediction</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 <style type="text/css">
@@ -11784,6 +11784,7 @@ div#notebook {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Notes">Notes<a class="anchor-link" href="#Notes">&#182;</a></h3><p>Not all of the code is contained in this jupyter file. Clone the github repository corresponding to this project if you want to actually run it. This notebook is just a summary.</p>
+<p><a href="https://github.com/wimmeldj/tennis_hierarchy_inference">tennis_hierarchy_inference_repo</a></p>
 
 </div>
 </div>
@@ -11895,30 +11896,14 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[80]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pickle</span>
 <span class="kn">from</span> <span class="nn">matplotlib</span> <span class="k">import</span> <span class="n">pyplot</span> <span class="k">as</span> <span class="n">plt</span>
 <span class="kn">from</span> <span class="nn">matplotlib</span> <span class="k">import</span> <span class="n">style</span>
 
-
 <span class="n">style</span><span class="o">.</span><span class="n">use</span><span class="p">(</span><span class="s1">&#39;grayscale&#39;</span><span class="p">)</span>
-
-<span class="c1"># plt.figure(1)</span>
-<span class="c1"># with open (&#39;pyplot_list_data/2010_outX&#39;, &#39;rb&#39;) as inFile:</span>
-<span class="c1">#     x_Nsurface_2010 = pickle.load(inFile)</span>
-<span class="c1"># with open(&#39;pyplot_list_data/2010_outY&#39;, &#39;rb&#39;) as inFile:</span>
-<span class="c1">#     y_Nsurface_2010 = pickle.load(inFile)</span>
-
-<span class="c1"># plt.plot(x_Nsurface_2010)</span>
-<span class="c1"># plt.plot(y_Nsurface_2010)</span>
-<span class="c1"># plt.show()</span>
-
-<span class="c1"># plt.figure(2)</span>
-<span class="c1"># plt.plot(x_Nsurface_2010)</span>
-<span class="c1"># plt.plot(y_Nsurface_2010)</span>
-<span class="c1"># plt.show()</span>
 
 <span class="n">plots</span> <span class="o">=</span> <span class="p">[[</span><span class="mi">0</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">2</span><span class="p">)]</span> <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">range</span> <span class="p">(</span><span class="mi">8</span><span class="p">)]</span>
 <span class="n">plots_surface</span> <span class="o">=</span> <span class="p">[[</span><span class="mi">0</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">2</span><span class="p">)]</span> <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">range</span> <span class="p">(</span><span class="mi">8</span><span class="p">)]</span>
